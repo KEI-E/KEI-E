@@ -44,5 +44,3 @@
     <img src="https://komarev.com/ghpvc/?username=KEI-E">
 </a>
 <a href="https://github.com/KEI-E?tab=followers"><img src="https://img.shields.io/github/followers/KEI-E?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<img src=https://komarev.com/ghpvc/?KEI-E = GitHub_Username/>

@@ -45,4 +45,4 @@
 </a>
 <a href="https://github.com/KEI-E?tab=followers"><img src="https://img.shields.io/github/followers/KEI-E?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+<img src=https://komarev.com/ghpvc/?KEI-E = GitHub_Username/>

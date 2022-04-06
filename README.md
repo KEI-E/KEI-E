@@ -1,6 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm KEI</h1>
-<h3 align="center">Not really a fan of programming yet I find it satisfying to do.</h3>
-
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KEI-E&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
